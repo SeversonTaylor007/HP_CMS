@@ -52,7 +52,6 @@ The script handles common issues like:
 - Large file processing
 - Mixed data types
 - Memory constraints
-- Network errors
 
 ## Author
 Taylor Severson
